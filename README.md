@@ -1,7 +1,5 @@
 # 👩🏻‍💻 Hello I'm Carlos
 
-I have been programming since I was 14 years old and started my journey in the gamedev industry with GML (Game Maker Language) and Lua. Currently, in 2025, I am transitioning to Java and expanding my knowledge into full-stack development, always seeking new challenges and constant growth!
-
 ### 🤖 Languages and Technologies
 
 <img 
