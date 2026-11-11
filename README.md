@@ -1,12 +1,12 @@
-# 👩🏻‍💻 Hello I'm Carlos
+# 👨🏻‍💻 Hello I'm Chavez
 
 ### 🤖 Languages and Technologies
 
 <img 
     align="left" 
-    alt="Lua"
-    title="Lua" 
+    alt="Anthropic"
+    title="Anthropic" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"
+    src="https://cdn.simpleicons.org/anthropic"
 />
